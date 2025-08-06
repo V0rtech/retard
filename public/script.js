@@ -212,7 +212,7 @@ async function addYourFlex() {
             return;
         }
         
-        const message = prompt('🚀 Share your epic flex story! 🚀', 'I spent $420,000 on...');
+        const message = prompt('🚀 Share your retard flex story! 🚀', '');
         if (!message || message.trim() === '') {
             console.log('❌ Message cancelled or empty');
             return;
