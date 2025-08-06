@@ -280,7 +280,7 @@ function addRandomLuxury() {
     }, 5000);
 }
 function buyNow() {
-    const buyLink = "pump.fun";
+    const buyLink = "https://pump.fun/coin/4vsweLi32jJ9S1ryDEzmU8WS2c3ZaJBgo817Nwxapump";
     window.open(buyLink, '_blank');
 }
 
