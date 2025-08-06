@@ -280,7 +280,7 @@ function addRandomLuxury() {
     }, 5000);
 }
 function buyNow() {
-    const buyLink = "www.pump.fun";
+    const buyLink = "pump.fun";
     window.open(buyLink, '_blank');
 }
 
