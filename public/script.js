@@ -280,7 +280,7 @@ function addRandomLuxury() {
     }, 5000);
 }
 function buyNow() {
-    const buyLink = "YOUR_UNISWAP_LINK_HERE";
+    const buyLink = "www.pump.fun";
     window.open(buyLink, '_blank');
 }
 
